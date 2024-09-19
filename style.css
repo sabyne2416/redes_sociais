@@ -7,5 +7,10 @@
 body{
     background-color: var(--cor-funo);
     color: var(--cor-texto);
-    
+    height: 100vh;
+    margin: 0;
+}
+.cabeclho{
+    background-color: var(--cor-principal);
+    text-align: center;
 }
