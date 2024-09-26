@@ -10,13 +10,15 @@ body{
     height: 100vh;
     margin: 0;
 }
-.cabeclho{
+.cabecalho{
     background-color: var(--cor-principal);
     text-align: center;
 }
 .cabecalho__titulo{
     font-size: 2rem;
-    color: var(--cor-texto)
+    color: var(--cor-texto);
+    font-weight: 700;
+    
 }
 nav{
     display: flex;
